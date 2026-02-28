@@ -19,5 +19,3 @@ A lightweight real-time system monitor built in C++ using Dear ImGui, GLFW, GLAD
 2. Dependencies: GLFW (prebuilt), GLAD, Dear ImGui (sources included)
 3. Add include/lib paths and link: glfw3.lib;opengl32.lib;pdh.lib;psapi.lib
 4. Build & run (Debug/Release)
-
-Screenshots: (add 2–3 images here)
